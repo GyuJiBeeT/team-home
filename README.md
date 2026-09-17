@@ -1,5 +1,6 @@
 # team-home
 
 ## Team_name = GyuJiBeeT
-## Kim Gyu Min/cheongaemong/Manage All Project
-## Kim Han Bee/hanbee1113/
+## 김규민/cheongaemong/설계, 구현
+## 김한비/hanbee1113/설계, 테스트
+## 이지민/chamchi128/설계, 유지
